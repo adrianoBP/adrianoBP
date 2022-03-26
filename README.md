@@ -12,6 +12,7 @@
 
 ### 🔮 Stuff I want to do
 
+- 💬 Git basesd chat
 - 📑 GitHub repositories custom templates
 - 🎩 Markdown fancifier
 
