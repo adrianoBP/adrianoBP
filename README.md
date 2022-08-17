@@ -8,7 +8,7 @@
 
 ### 👓 Stuff I'm doing
 
-- 📅 Google Calendar events sync ([have a look!](https://github.com/adrianoBP/GCalSync))
+- 📅 Google Calendar events sync
 
 ### 🔮 Stuff I want to do
 
