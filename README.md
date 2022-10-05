@@ -22,7 +22,5 @@
 
 ### Have some not-so-usefull stats!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adrianoBP&show_icons=true&theme=github_dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoBP&layout=compact&langs_count=8&exclude_repo=Unity101&theme=github_dark">
-</p>
+| <img src="https://github-readme-stats.vercel.app/api?username=adrianoBP&show_icons=true&theme=github_dark"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoBP&layout=compact&langs_count=8&exclude_repo=Unity101&theme=github_dark"> |
+| - | - |
