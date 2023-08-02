@@ -3,7 +3,7 @@
 ### ❓ About me
 
 - 💻 Full time software developer @ [Linnworks](https://www.linnworks.com/) - Since Aug 2018
-- 🎓 Full time student @ [UoP](https://www.port.ac.uk/) - 3rd year
+- 🎓 [University of Portsmouth](https://www.port.ac.uk/) Graduate
 - ⏳ Been programming for a while now, but still plenty to learn!
 
 ### 👓 Stuff I'm doing
