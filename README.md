@@ -6,16 +6,6 @@
 - 🎓 [University of Portsmouth](https://www.port.ac.uk/) Graduate
 - ⏳ Been programming for a while now, but still plenty to learn!
 
-### 👓 Stuff I'm doing
-
-- 📅 Google Calendar events sync
-
-### 🔮 Stuff I want to do
-
-- 💬 Git based chat
-- 📑 GitHub repositories custom templates
-- 🎩 Markdown fancifier
-
 ### Contact
 
 📫 [LinkedIn](https://www.linkedin.com/in/adrianobp-dev/)
