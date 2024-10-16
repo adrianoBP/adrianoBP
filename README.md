@@ -30,8 +30,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
-
-### Have some not-so-usefull stats!
-
-| <img src="https://github-readme-stats.vercel.app/api?username=adrianoBP&show_icons=true&theme=github_dark"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoBP&layout=compact&langs_count=8&exclude_repo=Unity101&theme=github_dark"> |
-| - | - |
