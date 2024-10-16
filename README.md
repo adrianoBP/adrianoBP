@@ -6,7 +6,7 @@
 - 🎓 [University of Portsmouth](https://www.port.ac.uk/) Graduate
 - ⏳ Been programming for a while now, but still plenty to learn!
 
-### Contact
+### ✉️ Contact
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/adrianobp-dev/">
